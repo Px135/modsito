@@ -1,0 +1,1 @@
+print("[modsito] sv_core cargado")

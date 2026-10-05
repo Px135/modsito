@@ -1,0 +1,8 @@
+"modsito"
+{
+    "base"          "base"
+    "title"         "modsito"
+    "maps"          "^fh_"
+    "category"      "pvp"
+    "menusystem"    "1"
+}

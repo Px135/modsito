@@ -1,0 +1,1041 @@
+cle system "vapor_collapse_cheap"!
+Attemped to precache unknown particle system "vapor_muzzle"!
+Attemped to precache unknown particle system "vapor_muzzle_altfire"!
+Attemped to precache unknown particle system "vapor_muzzle_evensmaller"!
+Attemped to precache unknown particle system "vapor_muzzle_small"!
+Attemped to precache unknown particle system "vectra_charged"!
+Attemped to precache unknown particle system "vectra_charging"!
+Attemped to precache unknown particle system "vp_binary_muzzle"!
+Attemped to precache unknown particle system "vp_binary_tracer"!
+Attemped to precache unknown particle system "vp_dissolve"!
+Attemped to precache unknown particle system "vp_dissolve_cheap"!
+Attemped to precache unknown particle system "vsecfire_shockwave"!
+Attemped to precache unknown particle system "vh_muzzle"!
+Attemped to precache unknown particle system "vh_tracer_old"!
+Attemped to precache unknown particle system "vh_hit"!
+Attemped to precache unknown particle system "xplo_tracer"!
+Attemped to precache unknown particle system "xplo_hit"!
+Attemped to precache unknown particle system "xplo_hit_cheap"!
+Attemped to precache unknown particle system "zeala_charged"!
+Attemped to precache unknown particle system "zeala_charging"!
+Attemped to precache unknown particle system "zeala_burst"!
+Attemped to precache unknown particle system "zeala_muzzle"!
+Attemped to precache unknown particle system "zeala_nade"!
+Attemped to precache unknown particle system "zeala_vortex"!
+Attemped to precache unknown particle system "zeala_vortex_cheap"!
+Attemped to precache unknown particle system "asw_vindicator_grenade"!
+Attemped to precache unknown particle system "dskart_postcharge_swave"!
+Attemped to precache unknown particle system "nking_stomp_lightning_ring_smoke_xy"!
+Attemped to precache unknown particle system "tm_ground_rocks"!
+Attemped to precache unknown particle system "asw_immolate_hover_ground_flash"!
+Attemped to precache unknown particle system "asw_fire_jet"!
+Attemped to precache unknown particle system "ds3_cinder_stomp"!
+Attemped to precache unknown particle system "vj_blood_pool_blue"!
+Attemped to precache unknown particle system "vj_blood_pool_blue_small"!
+Attemped to precache unknown particle system "vj_blood_pool_blue_tiny"!
+Attemped to precache unknown particle system "vj_blood_pool_green"!
+Attemped to precache unknown particle system "vj_blood_pool_green_small"!
+Attemped to precache unknown particle system "vj_blood_pool_green_tiny"!
+Attemped to precache unknown particle system "vj_blood_pool_oil"!
+Attemped to precache unknown particle system "vj_blood_pool_oil_small"!
+Attemped to precache unknown particle system "vj_blood_pool_oil_tiny"!
+Attemped to precache unknown particle system "vj_blood_pool_orange"!
+Attemped to precache unknown particle system "vj_blood_pool_orange_small"!
+Attemped to precache unknown particle system "vj_blood_pool_orange_tiny"!
+Attemped to precache unknown particle system "vj_blood_pool_purple"!
+Attemped to precache unknown particle system "vj_blood_pool_purple_small"!
+Attemped to precache unknown particle system "vj_blood_pool_purple_tiny"!
+Attemped to precache unknown particle system "vj_blood_pool_red"!
+Attemped to precache unknown particle system "vj_blood_pool_red_small"!
+Attemped to precache unknown particle system "vj_blood_pool_red_tiny"!
+Attemped to precache unknown particle system "vj_blood_pool_white"!
+Attemped to precache unknown particle system "vj_blood_pool_white_small"!
+Attemped to precache unknown particle system "vj_blood_pool_white_tiny"!
+Attemped to precache unknown particle system "vj_blood_pool_yellow"!
+Attemped to precache unknown particle system "vj_blood_pool_yellow_small"!
+Attemped to precache unknown particle system "vj_blood_pool_yellow_tiny"!
+Attemped to precache unknown particle system "vj_blood_impact_oil"!
+Attemped to precache unknown particle system "vj_blood_impact_blue"!
+Attemped to precache unknown particle system "vj_blood_impact_green"!
+Attemped to precache unknown particle system "vj_blood_impact_orange"!
+Attemped to precache unknown particle system "vj_blood_impact_purple"!
+Attemped to precache unknown particle system "vj_blood_impact_red"!
+Attemped to precache unknown particle system "vj_blood_impact_white"!
+Attemped to precache unknown particle system "vj_blood_impact_yellow"!
+Attemped to precache unknown particle system "vj_explosion1"!
+Attemped to precache unknown particle system "vj_explosion2"!
+Attemped to precache unknown particle system "vj_explosion3"!
+Attemped to precache unknown particle system "vj_explosionfire1"!
+Attemped to precache unknown particle system "vj_explosionfire2"!
+Attemped to precache unknown particle system "vj_explosionfire3"!
+Attemped to precache unknown particle system "vj_explosionfire4"!
+Attemped to precache unknown particle system "vj_explosionfire5"!
+Attemped to precache unknown particle system "vj_explosionflash1"!
+Attemped to precache unknown particle system "vj_explosionflash2"!
+Attemped to precache unknown particle system "vj_explosionspark1"!
+Attemped to precache unknown particle system "vj_explosionspark2"!
+Attemped to precache unknown particle system "vj_explosionspark3"!
+Attemped to precache unknown particle system "vj_explosionspark4"!
+Attemped to precache unknown particle system "vj_explosion_shockwave1"!
+Attemped to precache unknown particle system "vj_explosion_shockwave2"!
+Attemped to precache unknown particle system "vj_explosion_smoke1"!
+Attemped to precache unknown particle system "vj_explosion_smoke2"!
+Attemped to precache unknown particle system "vj_explosion_smoke_spike"!
+Attemped to precache unknown particle system "vj_explosion_rocks1"!
+Attemped to precache unknown particle system "vj_explosion_rocks2"!
+Attemped to precache unknown particle system "vj_explosion_debris"!
+Attemped to precache unknown particle system "vj_explosion_dirt"!
+Attemped to precache unknown particle system "vj_aurora_shockwave"!
+Attemped to precache unknown particle system "vj_aurora_shockwave_ring"!
+Attemped to precache unknown particle system "vj_aurora_shockwave_trails"!
+Attemped to precache unknown particle system "vj_aurora_floaters"!
+Attemped to precache unknown particle system "vj_smoke_black1"!
+Attemped to precache unknown particle system "vj_smoke_black2"!
+Attemped to precache unknown particle system "vj_smoke_white_medium"!
+Attemped to precache unknown particle system "vj_smoke_white_narrow"!
+Attemped to precache unknown particle system "vj_steam"!
+Attemped to precache unknown particle system "vj_steam_small"!
+Attemped to precache unknown particle system "vj_steam_small_full"!
+Attemped to precache unknown particle system "vj_steam_medium"!
+Attemped to precache unknown particle system "vj_steam_medium_full"!
+Attemped to precache unknown particle system "vj_steam_drops"!
+Attemped to precache unknown particle system "vj_impact_dirty"!
+Attemped to precache unknown particle system "vj_acid_idle"!
+Attemped to precache unknown particle system "vj_acid_impact1"!
+Attemped to precache unknown particle system "vj_acid_impact1_floaters"!
+Attemped to precache unknown particle system "vj_acid_impact1_gas"!
+Attemped to precache unknown particle system "vj_acid_impact1_splat"!
+Attemped to precache unknown particle system "vj_acid_impact1_small"!
+Attemped to precache unknown particle system "vj_acid_impact1_small_splat"!
+Attemped to precache unknown particle system "vj_acid_impact2"!
+Attemped to precache unknown particle system "vj_acid_impact2_juice"!
+Attemped to precache unknown particle system "vj_acid_impact2_trails"!
+Attemped to precache unknown particle system "vj_acid_impact2_splat"!
+Attemped to precache unknown particle system "vj_acid_impact3"!
+Attemped to precache unknown particle system "vj_acid_impact3_splat"!
+Attemped to precache unknown particle system "vj_acid_impact3_floaters"!
+Attemped to precache unknown particle system "vj_acid_impact3_gas"!
+Attemped to precache unknown particle system "vj_acid_impact3_slime"!
+Attemped to precache unknown particle system "vj_acid_impact3_slime_small"!
+Attemped to precache unknown particle system "vj_acid_impact3_trails"!
+Attemped to precache unknown particle system "vj_rocket_idle1"!
+Attemped to precache unknown particle system "vj_rocket_idle1_smoke"!
+Attemped to precache unknown particle system "vj_rocket_idle1_flare"!
+Attemped to precache unknown particle system "vj_rocket_idle2"!
+Attemped to precache unknown particle system "vj_rocket_idle2_smoke1"!
+Attemped to precache unknown particle system "vj_rocket_idle2_smoke2"!
+Attemped to precache unknown particle system "vj_rocket_idle2_fire"!
+Attemped to precache unknown particle system "vj_rocket_idle2_flare"!
+Attemped to precache unknown particle system "vj_rocket_idle2_glow"!
+Attemped to precache unknown particle system "vj_fireball_idle"!
+Attemped to precache unknown particle system "vj_fireball_idle_fire"!
+Attemped to precache unknown particle system "vj_fireball_idle_glow"!
+Attemped to precache unknown particle system "vj_fireball_idle_smoke"!
+Attemped to precache unknown particle system "vj_rifle_smoke"!
+Attemped to precache unknown particle system "vj_rifle_smoke_dark"!
+Attemped to precache unknown particle system "vj_rifle_sparks1"!
+Attemped to precache unknown particle system "vj_rifle_sparks2"!
+Attemped to precache unknown particle system "vj_rifle_full"!
+Attemped to precache unknown particle system "vj_rifle_glow"!
+Attemped to precache unknown particle system "vj_rifle_glow_large"!
+Attemped to precache unknown particle system "vj_rifle_inner"!
+Attemped to precache unknown particle system "vj_rifle_side"!
+Attemped to precache unknown particle system "vj_rifle_side_glow"!
+Attemped to precache unknown particle system "vj_rifle_smoke_flash"!
+Attemped to precache unknown particle system "vj_rifle_top"!
+Attemped to precache unknown particle system "vj_rifle_top_glow"!
+Attemped to precache unknown particle system "vj_rifle_top_left_glow"!
+Attemped to precache unknown particle system "vj_rifle_full_blue"!
+Attemped to precache unknown particle system "vj_rifle_glow_blue"!
+Attemped to precache unknown particle system "vj_rifle_glow_large_blue"!
+Attemped to precache unknown particle system "vj_rifle_inner_blue"!
+Attemped to precache unknown particle system "vj_rifle_side_blue"!
+Attemped to precache unknown particle system "vj_rifle_side_glow_blue"!
+Attemped to precache unknown particle system "vj_rifle_smoke_flash_blue"!
+Attemped to precache unknown particle system "vj_rifle_top_blue"!
+Attemped to precache unknown particle system "vj_rifle_top_glow_blue"!
+Attemped to precache unknown particle system "vj_rifle_top_left_glow_blue"!
+Attemped to precache unknown particle system "vj_muzzle_blaster_red"!
+Attemped to precache unknown particle system "vj_muzzle_blaster_blue"!
+Attemped to precache unknown particle system "vj_bms_turret_full"!
+Attemped to precache unknown particle system "vj_bms_turret_muzzle_core"!
+Attemped to precache unknown particle system "vj_bms_turret_muzzle_glow"!
+Attemped to precache unknown particle system "vj_bms_turret_muzzle_smoke"!
+Attemped to precache unknown particle system "vj_bms_turret_muzzle_sparks"!
+Attemped to precache unknown particle system "vj_bms_turret_muzzle_sparks2"!
+Attemped to precache unknown particle system "vj_l4d_blood_spray_clown"!
+Attemped to precache unknown particle system "vj_l4d_drool"!
+Attemped to precache unknown particle system "vj_l4d_froth"!
+Attemped to precache unknown particle system "vj_l4d_froth2"!
+Attemped to precache unknown particle system "vj_l4d_vomit"!
+Attemped to precache unknown particle system "smoker_tongue"!
+Attemped to precache unknown particle system "smoker_spore_trail_spores_cluster"!
+Attemped to precache unknown particle system "smoker_spore_trail"!
+Attemped to precache unknown particle system "spitter_drool"!
+Attemped to precache unknown particle system "spitter_slime_trail"!
+Attemped to precache unknown particle system "nking_projectile_lightning"!
+Attemped to precache unknown particle system "ornstein_hit_arcs_child"!
+Attemped to precache unknown particle system "ornstein_hit_arcs_parent"!
+Attemped to precache unknown particle system "ornstein_tracer_arcs_parent"!
+Attemped to precache unknown particle system "gravrifle_nade_embers"!
+Attemped to precache unknown particle system "lapis_d_vent"!
+Attemped to precache unknown particle system "drake_hit_sparks"!
+Attemped to precache unknown particle system "cig_smoke"!
+Attemped to precache unknown particle system "homlndr_superflight_boom"!
+Attemped to precache unknown particle system "homlndr_superflight_trail"!
+Attemped to precache unknown particle system "homlndr_superflight_hit"!
+Attemped to precache unknown particle system "homlndr_punch_hit"!
+Attemped to precache unknown particle system "homlndr_shockwave"!
+Attemped to precache unknown particle system "superhero_superflight_trail_03"!
+Attemped to precache unknown particle system "ds3_cinder_spear_hit_wave"!
+Attemped to precache unknown particle system "ds3_watcher_thrust_prestep_b"!
+Attemped to precache unknown particle system "weapon_gauss_beam"!
+Attemped to precache unknown particle system "weapon_gauss_beam_reflect"!
+Attemped to precache unknown particle system "weapon_gauss_impact"!
+Attemped to precache unknown particle system "superhero_superflight_trail_01"!
+Attemped to precache unknown particle system "ins_impact_dirt"!
+Attemped to precache unknown particle system "ds3_maria_blood_warp"!
+Attemped to precache unknown particle system "dskart_deathsplosion_warp"!
+Attemped to precache unknown particle system "lanka_riv_muzzle"!
+Attemped to precache unknown particle system "lanka_riv_tracer"!
+Attemped to precache unknown particle system "eml_generic_blast_minorfrags_smoke"!
+Attemped to precache unknown particle system "alyxshot_muzzle"!
+Attemped to precache unknown particle system "alyxshot_tracer"!
+Attemped to precache unknown particle system "alyxshot_impact"!
+Attemped to precache unknown particle system "weapon_flare_fire"!
+Attemped to precache unknown particle system "weapon_flare"!
+Attemped to precache unknown particle system "weapon_flare_explosion"!
+Attemped to precache unknown particle system "weapon_steambow_bolt_steam"!
+Attemped to precache unknown particle system "weapon_steambow_bolt_trail"!
+Attemped to precache unknown particle system "weapon_steambow_bolt_impact1"!
+Attemped to precache unknown particle system "weapon_steambow_bolt_impact2"!
+Attemped to precache unknown particle system "weapon_steambow_bolt_impact3"!
+Attemped to precache unknown particle system "weapon_steambow_bolt_aoe1"!
+Attemped to precache unknown particle system "weapon_steambow_bolt_aoe2"!
+Attemped to precache unknown particle system "weapon_steambow_bolt_aoe3"!
+Attemped to precache unknown particle system "vpr_nade_blast"!
+Attemped to precache unknown particle system "vpr_nade_tick"!
+Attemped to precache unknown particle system "ds3_watcher_fire_impact"!
+Attemped to precache unknown particle system "ds3_watcher_fire_impact_circular_b"!
+Attemped to precache unknown particle system "dskart_blade_hit"!
+Attemped to precache unknown particle system "dskart_blade_hit_lgtning_xy"!
+Attemped to precache unknown particle system "ds3_friede_scythe_scrape_core"!
+Attemped to precache unknown particle system "ds3_cinder_bless"!
+Attemped to precache unknown particle system "ds3_cinder_magicbolt_trail_fastfade"!
+Attemped to precache unknown particle system "ornstein_tracer"!
+Attemped to precache unknown particle system "ornstein_tracer_arcs_child"!
+Attemped to precache unknown particle system "ornstein_tracer_line"!
+Attemped to precache unknown particle system "dsorn_electric"!
+Attemped to precache unknown particle system "dsorn_electric_arcs_0"!
+Attemped to precache unknown particle system "dsorn_electric_arcs_1"!
+Attemped to precache unknown particle system "ornstein_tracer_fastfade"!
+Attemped to precache unknown particle system "ins_impact_puddle"!
+Attemped to precache unknown particle system "ins_impact_rock_debris"!
+Warning: WorldTwoTextureBlend found on a non-displacement surface (material: gm_construct/flatgrass_2). This wastes perf for no benefit.
+Clientside Lua startup!
+Error! Variable "$maxsize" is multiply defined in material "particle/particle_glow_05_additive_far"!
+*** Encountered VTF with 1 mip level and without NoMIP flag! Fixing.. (x2)
+Loaded 37 ArcCW attachments.
+Loaded blacklist with 0 attachments.
+Loaded ArcCW language file base_en.lua with 300 strings.
+PILL CORE LOADED
+Couldn't find/load font 'Orbitron', falling back to 'Tahoma'..
+[Compound V] Bootstrap v155 OK
+Darken217's SciFi Weapons, Update 29
+nil[DrGBase] nilInclude folder 'drgbase'.
+nil[DrGBase] nilInclude file 'drgbase/colors.lua'.
+[DrGBase] Include file 'drgbase/dpanels.lua'.
+[DrGBase] Include file 'drgbase/entity_helpers.lua'.
+[DrGBase] Include file 'drgbase/enumerations.lua'.
+[DrGBase] Include file 'drgbase/misc.lua'.
+[DrGBase] Include file 'drgbase/nextbots.lua'.
+[DrGBase] Include file 'drgbase/nodegraph.lua'.
+[DrGBase] Include file 'drgbase/particles.lua'.
+[DrGBase] Include file 'drgbase/possession.lua'.
+[DrGBase] Include file 'drgbase/resources.lua'.
+[DrGBase] Include file 'drgbase/spawners.lua'.
+[DrGBase] Include file 'drgbase/spawnmenu.lua'.
+[DrGBase] Include file 'drgbase/weapons.lua'.
+[DrGBase] Include file 'drgbase/wrappers.lua'.
+[DrGBase] Include folder 'drgbase/meta'.
+[DrGBase] Include file 'drgbase/meta/entity.lua'.
+[DrGBase] Include file 'drgbase/meta/npc.lua'.
+[DrGBase] Include file 'drgbase/meta/phys.lua'.
+[DrGBase] Include file 'drgbase/meta/player.lua'.
+[DrGBase] Include file 'drgbase/meta/vector.lua'.
+[DrGBase] Include folder 'drgbase/modules'.
+[DrGBase] Include file 'drgbase/modules/coroutine.lua'.
+[DrGBase] Include file 'drgbase/modules/debugoverlay.lua'.
+[DrGBase] Include file 'drgbase/modules/math.lua'.
+[DrGBase] Include file 'drgbase/modules/navmesh.lua'.
+[DrGBase] Include file 'drgbase/modules/net.lua'.
+[DrGBase] Include file 'drgbase/modules/render.lua'.
+[DrGBase] Include file 'drgbase/modules/string.lua'.
+[DrGBase] Include file 'drgbase/modules/table.lua'.
+[DrGBase] Include file 'drgbase/modules/timer.lua'.
+[DrGBase] Include file 'drgbase/modules/util.lua'.
+[Viewfinder] loaded (6 shake presets)
+Couldn't find/load font 'Calibri', falling back to 'Tahoma'.. (x2)
+Loading gws_spawn/cl_gws_spawn.lua on the client...
+Loading gws_spawn/sh_gwsweaponlimit.lua on the client...
+Finished initializing gws_spawn
+Attemped to precache unknown particle system "weapon_hgun_muzzleflash_3d_bm"! (x2)
+Attemped to precache unknown particle system "gluon_world_model"! (x2)
+[Slash Modules] Loading Folder: slashui/elements
+[Slash Modules] Loaded Client File: slashui/elements/cl_avatar.lua
+[Slash Modules] Loaded Client File: slashui/elements/cl_binder.lua
+[Slash Modules] Loaded Client File: slashui/elements/cl_button_v2.lua
+[Slash Modules] Loaded Client File: slashui/elements/cl_checkbox.lua
+[Slash Modules] Loaded Client File: slashui/elements/cl_dropdown_popup.lua
+[Slash Modules] Loaded Client File: slashui/elements/cl_frame.lua
+[Slash Modules] Loaded Client File: slashui/elements/cl_modelpanel.lua
+[Slash Modules] Loaded Client File: slashui/elements/cl_panel.lua
+[Slash Modules] Loaded Client File: slashui/elements/cl_popup.lua
+[Slash Modules] Loaded Client File: slashui/elements/cl_query.lua
+[Slash Modules] Loaded Client File: slashui/elements/cl_query_single_button.lua
+[Slash Modules] Loaded Client File: slashui/elements/cl_textentry.lua
+[Slash Modules] Loaded Client File: slashui/elements/cl_wyvern_scrollbar.lua
+[Slash Modules] Loaded Client File: slashui/elements/cl_wyvern_scrollpanel.lua
+[Slash Modules] Untitled Addon Finished Loading
+[Slash Modules] Loading Folder: slashui/libs
+[Slash Modules] Loaded Client File: slashui/libs/cl_animations.lua
+[Slash Modules] Loaded Client File: slashui/libs/cl_essentials.lua
+[Slash Modules] Loaded Client File: slashui/libs/cl_icon_dl.lua
+[Slash Modules] Loaded Client File: slashui/libs/cl_promises.lua
+[Slash Modules] Loaded Client File: slashui/libs/cl_shadows.lua
+[Slash Modules] Loaded Client File: slashui/libs/cl_wyvern.lua
+[Slash Modules] Loaded Shared File: slashui/libs/sh_essentials.lua
+[Slash Modules] Loaded Shared File: slashui/libs/sh_time.lua
+[Slash Modules] Loading Folder: slashui/libs/particles
+[Slash Modules] Loaded Client File: slashui/libs/particles/cl_effects.lua
+[Slash Modules] Untitled Addon Finished Loading
+[Slash Modules] Untitled Addon Finished Loading
+[Slash Modules] Loading Folder: slashui/settings
+[Slash Modules] Loaded Shared File: slashui/settings/sh_settings.lua
+[Slash Modules] Untitled Addon Finished Loading
+[Slash Modules] Framework Addon Finished Loading
+[Slash Modules] Loaded Client File: libraries/cl_outlines.lua
+[Slash Modules] Loaded Client File: libraries/cl_rndx.lua
+[Slash Modules] Loaded Client File: libraries/cl_thermalvision.lua
+[Slash Modules] CoreLibrary Addon Finished Loading
+[Slash Modules] Loaded Client File: mainfolder/cl_gifs.lua
+[Slash Modules] Loading Folder: mainfolder/binds
+[Slash Modules] Loaded Client File: mainfolder/binds/cl_binds.lua
+[Slash Modules] Loaded Shared File: mainfolder/binds/sh_binds.lua
+[Slash Modules] Untitled Addon Finished Loading
+[Slash Modules] Loading Folder: mainfolder/effects
+[Slash Modules] Loaded Client File: mainfolder/effects/cl_effects.lua
+[Slash Modules] Loaded Shared File: mainfolder/effects/sh_effects.lua
+[Slash Modules] Untitled Addon Finished Loading
+[Slash Modules] Core Addon Finished Loading
+Couldn't find/load font 'Impact', falling back to 'Tahoma'.. (x2)
+Couldn't find/load font 'Comic Sans MS', falling back to 'Tahoma'.. (x2)
+Couldn't find/load font 'Papyrus', falling back to 'Tahoma'.. (x2)
+Couldn't find/load font 'Impact', falling back to 'Tahoma'..
+Couldn't find/load font 'Comic Sans MS', falling back to 'Tahoma'..
+Couldn't find/load font 'Papyrus', falling back to 'Tahoma'..
+[DrGBase] Include file 'pc2module/drg_pc2_module.lua'.
+[DrGBase] Include folder 'pc2module'.
+[DrGBase] Include file 'pc2module/drg_pc2_module.lua'.
+[DrGBase] Include file 'pc2module/drg_pc2_return.lua'.
+Darken217's SciFi Weapons, Update 29
+Attemped to precache unknown particle system "asw_fire_jet"! (x2)
+Attemped to precache unknown particle system "ds3_cinder_stomp"! (x2)
+sh_combat_roll + hardlanding (synchronized) loaded
+test
+
+Client: [(ActMod)] Loading ...
+Client: [(ActMod)] Done Load Successfully
+
+
+[ULIB] Loading SHARED module: ulx_init.lua
+[ULX] Loading CLIENT module: motdmenu.lua
+[ULX] Loading CLIENT module: uteam.lua
+[ULX] Loading CLIENT module: xgui_client.lua
+[ULX] Loading CLIENT module: xgui_helpers.lua
+[ULX] Loading CLIENT module: xlib.lua
+[ULX] Loading SHARED module: chat.lua
+[ULX] Loading SHARED module: fun.lua
+[ULX] Loading SHARED module: hidenseek.lua
+[ULX] Loading SHARED module: menus.lua
+[ULX] Loading SHARED module: rcon.lua
+[ULX] Loading SHARED module: teleport.lua
+[ULX] Loading SHARED module: user.lua
+[ULX] Loading SHARED module: userhelp.lua
+[ULX] Loading SHARED module: util.lua
+[ULX] Loading SHARED module: vote.lua
+VJ Base: Initializing client files...
+VJ Base: Language set to english
+VJ Base: Initializing plugins...
+VJ Base: Added plugin -> official_l4d_cominf.lua
+VJ Base: Client files initialized!
+Error! Variable "$blendframes" is multiply defined in material "particle/smoke1/smoke1_add_nearcull"!
+[wOS] Successfully mounted animation extension: Bacteria
+[wOS] Successfully mounted wiltOS Animation Base
+[wOS] Successfully mounted animation extension: Experimental
+[wOS] Registered new Hold Type: Melee Combination
+[wOS-DynaBase] Registered new animation source: Base Animations
+[wOS-DynaBase] Registered new animation source: Local Player Animations
+[wOS-DynaBase] Registered new animation source: Bacteria Extension
+[wOS-DynaBase] Registered new animation source: Experimental Extension
+[wOS-DynaBase] Registered new animation source: Mixamo Movement Animations
+[wOS-DynaBase] Registered new animation source: Rolling animation
+[wOS-DynaBase] Registered new animation source: Vuthakral's Extended Player Animations
+[wOS-DynaBase] Registered new animation source: Gentoi's Pill Packs Animations
+Attemped to precache unknown particle system "asw_fire_jet"!
+Attemped to precache unknown particle system "ds3_cinder_stomp"!
+[BON CLEANUP] 🔄 Загрузка...
+[BON CLEANUP] ✅ Загружен! Используйте bon_cleanup в консоли.
+[WB MENU] Withered Bon settings menu loaded!
+Couldn't find/load font 'Comic Sans MS', falling back to 'Tahoma'.. (x3)
+Couldn't find/load font 'Orbitron', falling back to 'Tahoma'..
+Couldn't find/load font 'Impact', falling back to 'Tahoma'.. (x3)
+Couldn't find/load font 'Papyrus', falling back to 'Tahoma'.. (x3)
+Couldn't find/load font 'Calibri', falling back to 'Tahoma'.. (x2)
+[modsito] cl_core cargado
+
+[ERROR] Couldn't include file 'modsito\gamemode\utils\sh_util.lua' - File not found or is empty (@gamemodes/modsito/gamemode/cl_init.lua (line 12))
+  1. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:12
+   2. unknown - gamemodes/modsito/gamemode/cl_init.lua:22
+
+
+[ERROR] Couldn't include file 'modsito\gamemode\net\sh_netstrings.lua' - File not found or is empty (@gamemodes/modsito/gamemode/cl_init.lua (line 12))
+  1. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:12
+   2. unknown - gamemodes/modsito/gamemode/cl_init.lua:23
+
+
+[ERROR] Couldn't include file 'modsito\gamemode\hooks\cl_hooks.lua' - File not found or is empty (@gamemodes/modsito/gamemode/cl_init.lua (line 12))
+  1. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:12
+   2. unknown - gamemodes/modsito/gamemode/cl_init.lua:24
+
+
+[ERROR] Couldn't include file 'modsito\gamemode\modules\killers\cl_killer.lua' - File not found or is empty (@gamemodes/modsito/gamemode/cl_init.lua (line 12))
+  1. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:12
+   2. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:17
+    3. unknown - gamemodes/modsito/gamemode/cl_init.lua:25
+
+
+[ERROR] Couldn't include file 'modsito\gamemode\modules\killers\sh_killer_config.lua' - File not found or is empty (@gamemodes/modsito/gamemode/cl_init.lua (line 12))
+  1. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:12
+   2. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:17
+    3. unknown - gamemodes/modsito/gamemode/cl_init.lua:25
+
+
+[ERROR] Couldn't include file 'modsito\gamemode\modules\lms\sh_lms_config.lua' - File not found or is empty (@gamemodes/modsito/gamemode/cl_init.lua (line 12))
+  1. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:12
+   2. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:17
+    3. unknown - gamemodes/modsito/gamemode/cl_init.lua:25
+
+
+[ERROR] Couldn't include file 'modsito\gamemode\modules\music\cl_music.lua' - File not found or is empty (@gamemodes/modsito/gamemode/cl_init.lua (line 12))
+  1. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:12
+   2. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:17
+    3. unknown - gamemodes/modsito/gamemode/cl_init.lua:25
+
+
+[ERROR] Couldn't include file 'modsito\gamemode\modules\music\sh_music_config.lua' - File not found or is empty (@gamemodes/modsito/gamemode/cl_init.lua (line 12))
+  1. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:12
+   2. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:17
+    3. unknown - gamemodes/modsito/gamemode/cl_init.lua:25
+
+
+[ERROR] Couldn't include file 'modsito\gamemode\modules\rounds\sh_rounds_config.lua' - File not found or is empty (@gamemodes/modsito/gamemode/cl_init.lua (line 12))
+  1. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:12
+   2. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:17
+    3. unknown - gamemodes/modsito/gamemode/cl_init.lua:25
+
+
+[ERROR] Couldn't include file 'modsito\gamemode\modules\special_rounds\cl_roulette_ui.lua' - File not found or is empty (@gamemodes/modsito/gamemode/cl_init.lua (line 12))
+  1. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:12
+   2. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:17
+    3. unknown - gamemodes/modsito/gamemode/cl_init.lua:25
+
+
+[ERROR] Couldn't include file 'modsito\gamemode\modules\special_rounds\cl_special_rounds.lua' - File not found or is empty (@gamemodes/modsito/gamemode/cl_init.lua (line 12))
+  1. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:12
+   2. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:17
+    3. unknown - gamemodes/modsito/gamemode/cl_init.lua:25
+
+
+[ERROR] Couldn't include file 'modsito\gamemode\modules\special_rounds\sh_factors.lua' - File not found or is empty (@gamemodes/modsito/gamemode/cl_init.lua (line 12))
+  1. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:12
+   2. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:17
+    3. unknown - gamemodes/modsito/gamemode/cl_init.lua:25
+
+
+[ERROR] Couldn't include file 'modsito\gamemode\modules\survivors\cl_survivors.lua' - File not found or is empty (@gamemodes/modsito/gamemode/cl_init.lua (line 12))
+  1. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:12
+   2. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:17
+    3. unknown - gamemodes/modsito/gamemode/cl_init.lua:25
+
+
+[ERROR] Couldn't include file 'modsito\gamemode\modules\survivors\sh_items_config.lua' - File not found or is empty (@gamemodes/modsito/gamemode/cl_init.lua (line 12))
+  1. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:12
+   2. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:17
+    3. unknown - gamemodes/modsito/gamemode/cl_init.lua:25
+
+
+[ERROR] Couldn't include file 'modsito\gamemode\menu\cl_menu_killer.lua' - File not found or is empty (@gamemodes/modsito/gamemode/cl_init.lua (line 12))
+  1. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:12
+   2. unknown - gamemodes/modsito/gamemode/cl_init.lua:26
+
+
+[ERROR] Couldn't include file 'modsito\gamemode\menu\cl_menu_lms.lua' - File not found or is empty (@gamemodes/modsito/gamemode/cl_init.lua (line 12))
+  1. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:12
+   2. unknown - gamemodes/modsito/gamemode/cl_init.lua:26
+
+
+[ERROR] Couldn't include file 'modsito\gamemode\menu\cl_menu_main.lua' - File not found or is empty (@gamemodes/modsito/gamemode/cl_init.lua (line 12))
+  1. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:12
+   2. unknown - gamemodes/modsito/gamemode/cl_init.lua:26
+
+
+[ERROR] Couldn't include file 'modsito\gamemode\menu\cl_menu_rounds.lua' - File not found or is empty (@gamemodes/modsito/gamemode/cl_init.lua (line 12))
+  1. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:12
+   2. unknown - gamemodes/modsito/gamemode/cl_init.lua:26
+
+
+[ERROR] Couldn't include file 'modsito\gamemode\menu\cl_menu_special.lua' - File not found or is empty (@gamemodes/modsito/gamemode/cl_init.lua (line 12))
+  1. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:12
+   2. unknown - gamemodes/modsito/gamemode/cl_init.lua:26
+
+
+[ERROR] Couldn't include file 'modsito\gamemode\menu\cl_menu_survivors.lua' - File not found or is empty (@gamemodes/modsito/gamemode/cl_init.lua (line 12))
+  1. recursive_include_client - gamemodes/modsito/gamemode/cl_init.lua:12
+   2. unknown - gamemodes/modsito/gamemode/cl_init.lua:26
+
+[modsito] Cliente cargado.
+[DrGBase] Include file 'misc.lua'.
+[DrGBase] Include file 'primary.lua'.
+[DrGBase] Include file 'secondary.lua'.
+--- Missing Vgui material HUD/swepicons/hdtf_general
+Couldn't find/load font 'Bandal', falling back to 'Tahoma'..
+--- Missing Vgui material vgui/ui_fadeline
+Couldn't find/load font 'Bandal', falling back to 'Tahoma'..
+[DrGBase] Weapon 'weapon_drg_ar2': loaded.
+
+[Deltarune Rouxls Kaard Mac and Cheese Gun] language.Add expects string as second argument!
+  1. unknown - lua/weapons/weapon_rouxls_kaard_gun.lua:40
+
+ERROR: Trying to derive weapon v_npuppet_arms from non existant SWEP v_base!
+ERROR: Trying to derive weapon weapon_grfreddy_arms from non existant SWEP v_base!
+ERROR: Trying to derive weapon v_toybonnie from non existant SWEP v_base!
+[DrGBase] Nextbot 'drg_capnclark': loaded.
+[DrGBase] Nextbot 'drg_capnclark_faster': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_bonnie': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_chica': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_corpsefreddy': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_endo01': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_foxy': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_fredbear': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_freddy': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_goldenfreddy': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_bonnie_anniversary': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_bonnie_blacklight': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_bonnie_hardmode': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_bonnie_jacko': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_bonnie_prototype': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_chica_anniversary': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_chica_blacklight': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_chica_hardmode': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_chica_jacko': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_chica_prototype': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_endo01_mendo': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_foxy_anniversary': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_foxy_blacklight': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_foxy_captain': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_foxy_fixed': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_foxy_hardmode': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_foxy_jacko': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_foxy_prototype': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_freddy_anniversary': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_freddy_blacklight': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_freddy_hardmode': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_freddy_jacko': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_freddy_jackson': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_freddy_prototype': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_freddy_super': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_goldenfreddy_emerald': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_goldenfreddy_shadow': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_sparky_bub': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_sparky_fazboggle': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_skin_sparky_stylized': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_sparky': loaded.
+[DrGBase] Nextbot 'drg_fnaf1_yellowrabbit': loaded.
+[DrGBase] Nextbot 'drg_npc_unwithered_bonnie': loaded.
+[DrGBase] Nextbot 'drg_npc_unwithered_bonniemci': loaded.
+[DrGBase] Nextbot 'drg_npc_unwithered_chica': loaded.
+[DrGBase] Nextbot 'drg_npc_unwithered_chicamci': loaded.
+[DrGBase] Nextbot 'drg_npc_unwithered_foxy': loaded.
+[DrGBase] Nextbot 'drg_npc_unwithered_foxymci': loaded.
+[DrGBase] Nextbot 'drg_npc_unwithered_freddy': loaded.
+[DrGBase] Nextbot 'drg_npc_unwithered_freddymci': loaded.
+[DrGBase] Nextbot 'drg_npc_unwithered_gfreddy': loaded.
+[DrGBase] Nextbot 'drg_npc_unwithered_gfreddymci': loaded.
+[DrGBase] Nextbot 'drg_sb_blob': loaded.
+[DrGBase] Nextbot 'drg_sb_burntrap': loaded.
+[DrGBase] Nextbot 'drg_sb_djmusicman': loaded.
+[DrGBase] Nextbot 'drg_sb_endo': loaded.
+[DrGBase] Nextbot 'drg_sb_glamrockchica': loaded.
+[DrGBase] Nextbot 'drg_sb_glamrockfreddy': loaded.
+[DrGBase] Nextbot 'drg_sb_gregory': loaded.
+[DrGBase] Nextbot 'drg_sb_minimusicman': loaded.
+[DrGBase] Nextbot 'drg_sb_montgomerygator': loaded.
+[DrGBase] Nextbot 'drg_sb_moon': loaded.
+[DrGBase] Nextbot 'drg_sb_roxannewolf': loaded.
+[DrGBase] Nextbot 'drg_sb_shatteredchica': loaded.
+[DrGBase] Nextbot 'drg_sb_shatteredmonty': loaded.
+[DrGBase] Nextbot 'drg_sb_shatteredroxy': loaded.
+[DrGBase] Nextbot 'drg_sb_shatteredroxy': loaded.
+[DrGBase] Nextbot 'drg_sb_staffbot_alien': loaded.
+[DrGBase] Nextbot 'drg_sb_staffbot_comedian': loaded.
+[DrGBase] Nextbot 'drg_sb_staffbot_map': loaded.
+[DrGBase] Nextbot 'drg_sb_staffbot_mop': loaded.
+[DrGBase] Nextbot 'drg_sb_staffbot_nightmare': loaded.
+[DrGBase] Nextbot 'drg_sb_staffbot_security': loaded.
+[DrGBase] Nextbot 'drg_sb_staffbot_sewer': loaded.
+[DrGBase] Nextbot 'drg_sb_sun': loaded.
+[DrGBase] Nextbot 'drg_sb_vanessa': loaded.
+[DrGBase] Nextbot 'drg_sb_vanny': loaded.
+[DrGBase] Nextbot 'drgbase_archibald': loaded.
+[DrGBase] Nextbot 'drgbase_barbara': loaded.
+[DrGBase] Nextbot 'drgbase_barbara_hostile': loaded.
+[DrGBase] Nextbot 'drgbase_capnclark': loaded.
+[DrGBase] Nextbot 'drgbase_capnclark_fast': loaded.
+[DrGBase] Nextbot 'drgbase_capnclark_fastish': loaded.
+[DrGBase] Include file 'drgbase/entity_helpers.lua'.
+[DrGBase] Nextbot 'drgbase_ff3': loaded.
+[DrGBase] Include file 'status.lua'.
+[DrGBase] Include file 'ai.lua'.
+[DrGBase] Include file 'patrol.lua'.
+[DrGBase] Include file 'relationships.lua'.
+[DrGBase] Include file 'awareness.lua'.
+[DrGBase] Include file 'detection.lua'.
+[DrGBase] Include file 'locomotion.lua'.
+[DrGBase] Include file 'path.lua'.
+[DrGBase] Include file 'movements.lua'.
+[DrGBase] Include file 'animations.lua'.
+[DrGBase] Include file 'weapons.lua'.
+[DrGBase] Include file 'possession.lua'.
+[DrGBase] Include file 'drgbase/entity_helpers.lua'.
+[DrGBase] Include file 'behaviours.lua'.
+[DrGBase] Include file 'hooks.lua'.
+[DrGBase] Include file 'misc.lua'.
+[DrGBase] Include file 'animations.lua'.
+[DrGBase] Include file 'movements.lua'.
+[DrGBase] Include file 'animations.lua'.
+Couldn't find/load font 'Px437_IBM_VGA8', falling back to 'Tahoma'..
+[DrGBase] Nextbot 'nithorn_monarch': loaded.
+[DrGBase] Nextbot 'npc_alice': loaded.
+[DrGBase] Nextbot 'npc_allison': loaded.
+[DrGBase] Nextbot 'npc_beast_bendy': loaded.
+[DrGBase] Nextbot 'npc_bruteboris': loaded.
+[DrGBase] Nextbot 'npc_buddy_boris': loaded.
+[DrGBase] Nextbot 'npc_ch1_bendy': loaded.
+[DrGBase] Nextbot 'npc_ch2_bendy': loaded.
+[DrGBase] Nextbot 'npc_ch2_sammy': loaded.
+[DrGBase] Nextbot 'npc_ch2_searcher': loaded.
+[DrGBase] Nextbot 'npc_ch3_bendy': loaded.
+[DrGBase] Nextbot 'npc_ch4_bendy': loaded.
+[DrGBase] Nextbot 'npc_ch4_sammy': loaded.
+[DrGBase] Nextbot 'npc_ch5_sammy': loaded.
+[DrGBase] Nextbot 'npc_drg_antlion': loaded.
+[DrGBase] Nextbot 'npc_drg_batdraliceangel': loaded.
+[DrGBase] Nextbot 'npc_drg_batdrallisonangel': loaded.
+[DrGBase] Nextbot 'npc_drg_batdrbeastbendy': loaded.
+[DrGBase] Nextbot 'npc_drg_batdrbendy': loaded.
+[DrGBase] Nextbot 'npc_drg_batdrboris': loaded.
+[DrGBase] Nextbot 'npc_drg_batdrfisher': loaded.
+[DrGBase] Nextbot 'npc_drg_batdrinkdemon': loaded.
+[DrGBase] Nextbot 'npc_drg_batdrkeeper': loaded.
+[DrGBase] Nextbot 'npc_drg_batdrlostones': loaded.
+[DrGBase] Nextbot 'npc_drg_batdrlurker': loaded.
+[DrGBase] Nextbot 'npc_drg_batdrpiper': loaded.
+[DrGBase] Nextbot 'npc_drg_batdrsammy': loaded.
+[DrGBase] Nextbot 'npc_drg_batdrsearcher': loaded.
+[DrGBase] Nextbot 'npc_drg_batdrshipahoy': loaded.
+[DrGBase] Nextbot 'npc_drg_batdrslicer': loaded.
+[DrGBase] Nextbot 'npc_drg_batdrstriker': loaded.
+[DrGBase] Nextbot 'npc_drg_batdrtom': loaded.
+[DrGBase] Nextbot 'npc_drg_batdrwidow': loaded.
+[DrGBase] Nextbot 'npc_drg_batdrxmasone': loaded.
+[DrGBase] Nextbot 'npc_drg_headcrab': loaded.
+[DrGBase] Include file 'helpers.lua'.
+[DrGBase] Include file 'possession.lua'.
+[DrGBase] Include file 'abilities.lua'.
+[DrGBase] Include file 'hooks.lua'.
+[DrGBase] Nextbot 'npc_drg_pc2_a01': loaded.
+[DrGBase] Include file 'helpers.lua'.
+[DrGBase] Include file 'possession.lua'.
+[DrGBase] Include file 'abilities.lua'.
+[DrGBase] Include file 'Aoonimove.lua'.
+[DrGBase] Include file 'anim.lua'.
+[DrGBase] Include file 'sounds.lua'.
+[DrGBase] Nextbot 'npc_drg_pc2_aooni': loaded.
+[DrGBase] Include file 'helpers.lua'.
+[DrGBase] Include file 'possession.lua'.
+[DrGBase] Include file 'abilities.lua'.
+[DrGBase] Nextbot 'npc_drg_pc2_baldi': loaded.
+[DrGBase] Include file 'helpers.lua'.
+[DrGBase] Include file 'possession.lua'.
+[DrGBase] Include file 'abilities.lua'.
+[DrGBase] Include file 'sounds.lua'.
+[DrGBase] Nextbot 'npc_drg_pc2_exe': loaded.
+[DrGBase] Include file 'helpers.lua'.
+[DrGBase] Include file 'possession.lua'.
+[DrGBase] Include file 'abilities.lua'.
+[DrGBase] Include file 'net.lua'.
+[DrGBase] Include file 'sounds.lua'.
+[DrGBase] Nextbot 'npc_drg_pc2_fogborn': loaded.
+[DrGBase] Include file 'helpers.lua'.
+[DrGBase] Include file 'possession.lua'.
+[DrGBase] Include file 'abilities.lua'.
+[DrGBase] Include file 'sounds.lua'.
+[DrGBase] Nextbot 'npc_drg_pc2_forestking': loaded.
+[DrGBase] Include file 'helpers.lua'.
+[DrGBase] Include file 'possession.lua'.
+[DrGBase] Include file 'abilities.lua'.
+[DrGBase] Include file 'hooks.lua'.
+[DrGBase] Include file 'sounds.lua'.
+[DrGBase] Nextbot 'npc_drg_pc2_inkfell': loaded.
+[DrGBase] Include file 'helpers.lua'.
+[DrGBase] Include file 'possession.lua'.
+[DrGBase] Include file 'abilities.lua'.
+[DrGBase] Include file 'sounds.lua'.
+[DrGBase] Nextbot 'npc_drg_pc2_pcx': loaded.
+[DrGBase] Include file 'helpers.lua'.
+[DrGBase] Include file 'possession.lua'.
+[DrGBase] Include file 'abilities.lua'.
+[DrGBase] Include file 'sounds.lua'.
+[DrGBase] Nextbot 'npc_drg_pc2_rev_fuwatti': loaded.
+[DrGBase] Include file 'helpers.lua'.
+[DrGBase] Include file 'possession.lua'.
+[DrGBase] Include file 'abilities.lua'.
+[DrGBase] Include file 'sounds.lua'.
+[DrGBase] Nextbot 'npc_drg_pc2_rev_jeff': loaded.
+[DrGBase] Include file 'helpers.lua'.
+[DrGBase] Include file 'possession.lua'.
+[DrGBase] Include file 'abilities.lua'.
+[DrGBase] Include file 'sounds.lua'.
+[DrGBase] Nextbot 'npc_drg_pc2_rev_mx': loaded.
+[DrGBase] Include file 'helpers.lua'.
+[DrGBase] Include file 'possession.lua'.
+[DrGBase] Include file 'abilities.lua'.
+[DrGBase] Include file 'sounds.lua'.
+[DrGBase] Nextbot 'npc_drg_pc2_rev_niloticus': loaded.
+[DrGBase] Include file 'ai.lua'.
+[DrGBase] Include file 'helpers.lua'.
+[DrGBase] Include file 'possession.lua'.
+[DrGBase] Include file 'abilities.lua'.
+[DrGBase] Include file 'sounds.lua'.
+[DrGBase] Nextbot 'npc_drg_pc2_rev_rosemary': loaded.
+[DrGBase] Include file 'helpers.lua'.
+[DrGBase] Include file 'possession.lua'.
+[DrGBase] Include file 'abilities.lua'.
+[DrGBase] Include file 'possessedextraui.lua'.
+[DrGBase] Include file 'sounds.lua'.
+[DrGBase] Nextbot 'npc_drg_pc2_rev_samsonite': loaded.
+[DrGBase] Include file 'helpers.lua'.
+[DrGBase] Include file 'possession.lua'.
+[DrGBase] Include file 'abilities.lua'.
+[DrGBase] Include file 'sounds.lua'.
+[DrGBase] Nextbot 'npc_drg_pc2_rev_springtrap': loaded.
+[DrGBase] Include file 'helpers.lua'.
+[DrGBase] Include file 'possession.lua'.
+[DrGBase] Include file 'abilities.lua'.
+[DrGBase] Include file 'sounds.lua'.
+[DrGBase] Nextbot 'npc_drg_pc2_rev_stricken': loaded.
+[DrGBase] Include file 'helpers.lua'.
+[DrGBase] Include file 'possession.lua'.
+[DrGBase] Include file 'abilities.lua'.
+[DrGBase] Include file 'sounds.lua'.
+[DrGBase] Nextbot 'npc_drg_pc2_rev_vapor': loaded.
+[DrGBase] Include file 'helpers.lua'.
+[DrGBase] Include file 'possession.lua'.
+[DrGBase] Include file 'abilities.lua'.
+[DrGBase] Include file 'sounds.lua'.
+[DrGBase] Nextbot 'npc_drg_pc2_rev_wyst': loaded.
+[DrGBase] Include file 'settinghelpers.lua'.
+[DrGBase] Include file 'possession.lua'.
+[DrGBase] Include file 'movement.lua'.
+[DrGBase] Include file 'jumpscare.lua'.
+[DrGBase] Include file 'melee.lua'.
+[DrGBase] Include file 'sounds.lua'.
+[DrGBase] Include file 'helpers.lua'.
+[DrGBase] Include file 'possession.lua'.
+[DrGBase] Include file 'abilities.lua'.
+[DrGBase] Include file 'sounds.lua'.
+[DrGBase] Nextbot 'npc_drg_pc2_valem': loaded.
+[DrGBase] Include file 'helpers.lua'.
+[DrGBase] Include file 'helpers.lua'.
+[DrGBase] Include file 'possession.lua'.
+[DrGBase] Include file 'abilities.lua'.
+[DrGBase] Nextbot 'npc_drg_pc2_vitamimic': loaded.
+[DrGBase] Nextbot 'npc_drg_ruinbonniewnb': loaded.
+[DrGBase] Nextbot 'npc_drg_ruincandycadetwnb': loaded.
+[DrGBase] Nextbot 'npc_drg_ruincassiewnb': loaded.
+[DrGBase] Nextbot 'npc_drg_ruinchicawnb': loaded.
+[DrGBase] Nextbot 'npc_drg_ruineclipsewnb': loaded.
+[DrGBase] Nextbot 'npc_drg_ruinendownb': loaded.
+[DrGBase] Nextbot 'npc_drg_ruinfreddywnb': loaded.
+[DrGBase] Nextbot 'npc_drg_ruinlilmusicmanwnb': loaded.
+[DrGBase] Nextbot 'npc_drg_ruinmascotwnb': loaded.
+[DrGBase] Nextbot 'npc_drg_ruinmontywnb': loaded.
+[DrGBase] Nextbot 'npc_drg_ruinoldendownb': loaded.
+[DrGBase] Nextbot 'npc_drg_ruinoldrabbitwnb': loaded.
+[DrGBase] Nextbot 'npc_drg_ruinrabbitwnb': loaded.
+[DrGBase] Nextbot 'npc_drg_ruinroxywnb': loaded.
+[DrGBase] Nextbot 'npc_drg_scp096': loaded.
+[DrGBase] Nextbot 'npc_drg_scp096_rage': loaded.
+[DrGBase] Nextbot 'npc_drg_testhuman': loaded.
+[DrGBase] Nextbot 'npc_drg_testnextbot': loaded.
+[DrGBase] Nextbot 'npc_drg_testsprite': loaded.
+[DrGBase] Nextbot 'npc_drg_zombie': loaded.
+[DrGBase] Nextbot 'npc_drgbase_thebonwalten': loaded.
+[DrGBase] Nextbot 'npc_fisher': loaded.
+[DrGBase] Nextbot 'npc_gianthand': loaded.
+[DrGBase] Nextbot 'npc_lostone': loaded.
+[DrGBase] Nextbot 'npc_piper': loaded.
+[DrGBase] Nextbot 'npc_projectionist': loaded.
+[DrGBase] Nextbot 'npc_searcher': loaded.
+[DrGBase] Nextbot 'npc_searcher_giant': loaded.
+[DrGBase] Nextbot 'npc_stilllife': loaded.
+[DrGBase] Nextbot 'npc_striker': loaded.
+[DrGBase] Nextbot 'npc_swollen_searcher': loaded.
+[DrGBase] Nextbot 'npc_tom': loaded.
+[DrGBase] Include file 'meta.lua'.
+Couldn't find/load font 'Impact', falling back to 'Tahoma'.. (x2)
+Couldn't find/load font 'Comic Sans MS', falling back to 'Tahoma'.. (x2)
+Couldn't find/load font 'Papyrus', falling back to 'Tahoma'.. (x2)
+[DrGBase] Nextbot 'slendy55_announcer': loaded.
+[DrGBase] Nextbot 'slendy55_berserker_nn': loaded.
+[DrGBase] Nextbot 'slendy55_blood_medic': loaded.
+[DrGBase] Nextbot 'slendy55_brute_tubby': loaded.
+[DrGBase] Nextbot 'slendy55_bull_newborn': loaded.
+[DrGBase] Nextbot 'slendy55_campaign_guardian': loaded.
+[DrGBase] Nextbot 'slendy55_cave_tubby': loaded.
+[DrGBase] Nextbot 'slendy55_dipsy': loaded.
+[DrGBase] Nextbot 'slendy55_dipsy_lake': loaded.
+[DrGBase] Nextbot 'slendy55_dipsy_v2': loaded.
+[DrGBase] Nextbot 'slendy55_ghost': loaded.
+[DrGBase] Nextbot 'slendy55_imposter': loaded.
+[DrGBase] Nextbot 'slendy55_laa_laa': loaded.
+[DrGBase] Nextbot 'slendy55_newborn': loaded.
+[DrGBase] Nextbot 'slendy55_newborn_runner': loaded.
+[DrGBase] Nextbot 'slendy55_newborn_scorpion': loaded.
+[DrGBase] Nextbot 'slendy55_orange_tubby': loaded.
+[DrGBase] Nextbot 'slendy55_phantom': loaded.
+[DrGBase] Nextbot 'slendy55_po_p1': loaded.
+[DrGBase] Nextbot 'slendy55_po_p2': loaded.
+[DrGBase] Nextbot 'slendy55_po_p3': loaded.
+[DrGBase] Nextbot 'slendy55_rocket_newborn': loaded.
+[DrGBase] Nextbot 'slendy55_ron_v2': loaded.
+[DrGBase] Nextbot 'slendy55_scythe': loaded.
+[DrGBase] Nextbot 'slendy55_scythev2': loaded.
+[DrGBase] Nextbot 'slendy55_security_announcer': loaded.
+[DrGBase] Nextbot 'slendy55_shadow_tubby': loaded.
+[DrGBase] Nextbot 'slendy55_spider_droid': loaded.
+[DrGBase] Nextbot 'slendy55_tinky_tank': loaded.
+[DrGBase] Nextbot 'slendy55_tinky_tank_v2': loaded.
+[DrGBase] Nextbot 'slendy55_tinky_winky': loaded.
+[DrGBase] Nextbot 'slendy55_unit': loaded.
+[DrGBase] Nextbot 'slendy55_white_crawler': loaded.
+[DrGBase] Nextbot 'slendy55_white_crawler_old': loaded.
+[DrGBase] Nextbot 'slendy55_white_infected': loaded.
+[DrGBase] Nextbot 'slendy55_worker_chainsaw': loaded.
+[DrGBase] Nextbot 'slendy55_yeti_tubby': loaded.
+[DrGBase] Nextbot 'slendy55_yeti_tubby_v2': loaded.
+[DrGBase] Nextbot 'withered_bon': loaded.
+[BON] Withered Bon registered!
+[DrGBase] Nextbot 'withered_bon_ghost': loaded.
+[BON GHOST] Withered Bon Ghost registered!
+ERROR: Trying to derive entity bouncy_yaris from non existant entity base_gmodentity!
+ERROR: Trying to derive entity ent_pizzaface_chaser from non existant entity base_gmodentity!
+ERROR: Trying to derive entity bo3iii_enhanced_mobility_entity from non existant entity base_gmodentity!
+ERROR: Trying to derive entity drg_pc2_baldibook from non existant entity base_gmodentity!
+ERROR: Trying to derive entity sent_simpletimerplus from non existant entity base_gmodentity!
+ERROR: Trying to derive entity snowgrave_effect from non existant entity base_gmodentity!
+ERROR: Trying to derive entity obj_vj_l4d2_bile from non existant entity base_gmodentity!
+ERROR: Trying to derive entity st3_logo_drg2 from non existant entity base_gmodentity!
+ERROR: Trying to derive entity sent_neo_radio from non existant entity base_gmodentity!
+ERROR: Trying to derive entity gmod_ascii_terminal from non existant entity base_gmodentity!
+ERROR: Trying to derive entity healthcasebig from non existant entity base_gmodentity!
+ERROR: Trying to derive entity illusion_drg_pc2_valem from non existant entity base_gmodentity!
+ERROR: Trying to derive entity st3_logo_drg from non existant entity base_gmodentity!
+ERROR: Trying to derive entity gmod_pong_trigger from non existant entity base_gmodentity!
+ERROR: Trying to derive entity drg_pc2_antiheartape from non existant entity base_gmodentity!
+[wOS-DynaBase] Registered new animation source: Vuthakral's Extended Player Animations
+[wOS-DynaBase] Registered new animation source: Gentoi's Pill Packs animations
+[wOS-DynaBase] Registered new animation source: Base Anim AM4
+[wOS-DynaBase] Registered new animation source: xdReanimsBase (GMod)
+[wOS-DynaBase] Registered new animation source: BlackOps3SpecialistAnimations
+[wOS-DynaBase] Registered new animation source: BlackOps3TraversalsAnimations
+[wOS-DynaBase] Registered new animation source: GAW Combat Lib (primary)
+[wOS-DynaBase] Registered new animation source: Omni-Man SWEP
+[DrGBase] Hi! :)
+! FallDamageCustomizer loaded !
+Attemped to precache unknown particle system "explosion_huge_a"! (x2)
+ERROR: Trying to derive weapon v_npuppet_arms from non existant SWEP v_base!
+ERROR: Trying to derive weapon weapon_grfreddy_arms from non existant SWEP v_base!
+ArcCW adding ammo type arccw_base_nade
+ERROR: Trying to derive weapon v_toybonnie from non existant SWEP v_base!
+[PPP] ERROR: Tried to self-inherit 'pill_foxy2mod2' pill! Please verify the parent value in this pill.
+env_cubemap used on world geometry without rebuilding map. . ignoring: maps/gm_2fort/nature/blendmudmud001a_wvt_patch
+ShaderAPIDX8::CreateD3DTexture: D3DERR_INVALIDCALL (models/djebrayass/coolioart/oldfoxy/eyepatch, nose)
+KeyValues Error: LoadFromBuffer: missing { in file materials/models/djebrayass/coolioart/oldfreddy/endo1.vmt
+(*VertexLitGeneric*), 
+ShaderAPIDX8::CreateD3DTexture: D3DERR_INVALIDCALL (models/djebrayass/coolioart/oldfreddy/black)
+Error! Flag "$nocull" is multiply defined in material "models/wyldkat/batim/alice/mats/material_211"!
+Error! Flag "$nocull" is multiply defined in material "models/wyldkat/batim/allison/mats/aliceamaterial"!
+Error! Flag "$nocull" is multiply defined in material "models/wyldkat/batim/allison/mats/aliceaswordmaterial"!
+Error! Flag "$nocull" is multiply defined in material "models/wyldkat/batim/bruteboris/mats/brute_boris_ink_material"!
+Error! Flag "$nocull" is multiply defined in material "models/wyldkat/batim/bruteboris/mats/brute_boris_material"!
+Error! Flag "$nocull" is multiply defined in material "models/wyldkat/batim/bruteboris/mats/mastermaterial_02"!
+Error! Flag "$nocull" is multiply defined in material "models/wyldkat/batim/boris/mats/ch3_boris_mat"!
+Error! Flag "$nocull" is multiply defined in material "models/wyldkat/batim/boris/mats/ch3_boris_eyes_basic_mat"!
+Error! Flag "$nocull" is multiply defined in material "models/wyldkat/batim/betasearcher/mats/searchermaterial"!
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/models/batim/chapter4/inkbendy/bendy_material.vmt
+VertexLitGeneric, (*proxies*), (*AnimatedTexture*), 
+Error! Flag "$nocull" is multiply defined in material "models/batim/chapter4/inkbendy/bendy_material"!
+Error! Flag "$nocull" is multiply defined in material "models/wyldkat/batim/sammy/mats/mat_sammylarence"!
+Error! Flag "$nocull" is multiply defined in material "models/wyldkat/batim/sammy/mats/default-material"!
+Error! Flag "$nocull" is multiply defined in material "models/wyldkat/batim/sammy/mats/gent_weapon_mat"!
+Error! Flag "$nodecal" is multiply defined in material "models/whynotboi/batdr/beastbendy/mat_body"!
+Error! Flag "$nodecal" is multiply defined in material "models/whynotboi/batdr/lostone/mat_props2"!
+Error! Flag "$nodecal" is multiply defined in material "models/whynotboi/batdr/lostone/mat_color"!
+Error! Flag "$nodecal" is multiply defined in material "models/whynotboi/batdr/lurker/mat_body"!
+Error! Flag "$nocull" is multiply defined in material "models/wyldkat/batim/fisher/mats/ch3_fisher_mat"!
+Error! Flag "$nocull" is multiply defined in material "models/wyldkat/batim/gianthand/mats/bendyhandtexture"!
+Error! Flag "$nocull" is multiply defined in material "models/wyldkat/batim/lostone/mats/lostones_basic"!
+Error! Flag "$nocull" is multiply defined in material "models/wyldkat/batim/lostone/mats/newlightglow_material"!
+Error! Flag "$nocull" is multiply defined in material "models/wyldkat/batim/lostone/mats/mastermaterial_01"!
+Error! Flag "$nocull" is multiply defined in material "models/wyldkat/batim/lostone/mats/gent_weapon_mat"!
+Error! Flag "$nocull" is multiply defined in material "models/wyldkat/batim/lostone/mats/highlightmastermaterial_03"!
+Error! Flag "$nocull" is multiply defined in material "models/wyldkat/batim/piper/mats/ch3_piper_mat"!
+Error! Flag "$nocull" is multiply defined in material "models/wyldkat/batim/projectionist/mats/ch3_projectionist_mat"!
+Error! Flag "$nocull" is multiply defined in material "models/wyldkat/batim/searcher/mats/searchermaterial"!
+Error! Flag "$nocull" is multiply defined in material "models/wyldkat/batim/striker/mats/ch3_striker_mat"!
+Error! Flag "$nocull" is multiply defined in material "models/wyldkat/batim/tom/mats/borismaterial"!
+Error! Flag "$nocull" is multiply defined in material "models/wyldkat/batim/tom/mats/tomeyesmaterial"!
+Error! Flag "$nocull" is multiply defined in material "models/wyldkat/batim/tom/mats/tommaterial"!
+Error! Flag "$nocull" is multiply defined in material "models/wyldkat/batim/tom/mats/mastermaterial_01"!
+Error! Flag "$nocull" is multiply defined in material "models/wyldkat/batim/tom/mats/gent_weapon_mat"!
+Error! Variable "$maxsize" is multiply defined in material "particle/particle_glow_05_additive_far"!
+*** Encountered VTF with 1 mip level and without NoMIP flag! Fixing.. (x2)
+Error! Variable "$blendframes" is multiply defined in material "particle/smoke1/smoke1_add_nearcull"!
+VManip loaded with 11 animations
+VManip loaded with 11 animations
+whynotboi\fnaf\fnaf1\animatronics\goldenfreddy\skins\emerald\emeraldfreddy.mdl/whynotboi\fnaf\fnaf1\animatronics\goldenfreddy\goldenfreddy.mdl : missmatched parent bones on "bip_microphone"
+backrooms/stilllife/stilllife.mdl/Zombie/Fast.mdl : missmatched parent bones on "ValveBiped.Bip01_Pelvis"
+backrooms/stilllife/stilllife.mdl/Zombie/Fast.mdl : missmatched parent bones on "ValveBiped.Bip01_Spine"
+Client "Px135" spawned in server <STEAM_0:1:544260145> (took 16 seconds).
+Welcome to My Garry's Mod Server! We're playing gm_2fort.
+[wOS-DynaBase] Registered new animation source: 
+[wOS-DynaBase] Registered new animation source: GAW Combat Lib (primary)
+Couldn't find/load font 'Comic Sans MS', falling back to 'Tahoma'.. (x3)
+Couldn't find/load font 'Px437_IBM_VGA8', falling back to 'Tahoma'..
+Couldn't find/load font 'Orbitron', falling back to 'Tahoma'..
+Couldn't find/load font 'Impact', falling back to 'Tahoma'.. (x3)
+Couldn't find/load font 'Papyrus', falling back to 'Tahoma'.. (x3)
+Couldn't find/load font 'Calibri', falling back to 'Tahoma'.. (x2)
+Couldn't find/load font 'Bandal', falling back to 'Tahoma'..
+
+///////////////////////////////////////
+//  ULX GUI -- Made by Stickly Man!  //
+///////////////////////////////////////
+// Loading GUI Modules...            //
+//   bans.lua                        //
+//   commands.lua                    //
+//   groups.lua                      //
+//   maps.lua                        //
+//   settings.lua                    //
+// Loading Setting Modules...        //
+//   client.lua                      //
+//   server.lua                      //
+// Loading Gamemode Module(s)...     //
+//   No module found!                //
+// Modules Loaded!                   //
+///////////////////////////////////////
+
+SciFi Weapons sucessfully verified.
+Attemped to precache unknown particle system "explosion_huge_a"!
+[BON CLEANUP] 🧹 Начинаю очистку...
+[BON CLEANUP] ✅ Очистка завершена!
+Attemped to precache unknown particle system "asw_fire_jet"!
+Attemped to precache unknown particle system "ds3_cinder_stomp"!
+[Homelander V1] PCF superhero:	true
+[Homelander V1] whisp.vtf:	true
+[IMK] Звуки загружены (MP). Тест: imk_sound_test
+VManip loaded with 11 animations
+VManip loaded with 11 animations
+Compact freed 1515520 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+VManip detected. Initialized Chen's VManip Patch (Woke™ Edition). Have fun!
+
+[Fazbear Hunt: Expanded - Shattered Freddy content] lua/autorun/sh_shattered_freddy.lua:623: attempt to call method 'GetPill' (a nil value)
+  1. unknown - lua/autorun/sh_shattered_freddy.lua:623
+
+Timer Failed! [Simple][@lua/autorun/sh_shattered_freddy.lua (line 621)]
+
+[Easy Spawnpoint Editor] lua/entities/editable_spawnpoint/cl_init.lua:24: attempt to call method 'GetTool' (a nil value)
+  1. unknown - lua/entities/editable_spawnpoint/cl_init.lua:24 (x12)
+
+Redownloading all lightmaps
+whynotboi\fnaf\fnaf1\animatronics\goldenfreddy\skins\emerald\emeraldfreddy.mdl/whynotboi\fnaf\fnaf1\animatronics\goldenfreddy\goldenfreddy.mdl : missmatched parent bones on "bip_microphone"
+backrooms/stilllife/stilllife.mdl/Zombie/Fast.mdl : missmatched parent bones on "ValveBiped.Bip01_Pelvis"
+backrooms/stilllife/stilllife.mdl/Zombie/Fast.mdl : missmatched parent bones on "ValveBiped.Bip01_Spine"
+
+[Easy Spawnpoint Editor] lua/entities/editable_spawnpoint/cl_init.lua:24: attempt to call method 'GetTool' (a nil value)
+  1. unknown - lua/entities/editable_spawnpoint/cl_init.lua:24 (x12)
+
+VJ Base [AI Nodegraph module]: Object created.
+VJ Base [AI Nodegraph module]: Nodegraph file couldn't be found!
+VJ Base [AI Nodegraph module]: Failed to read file, will attempt again soon...
+
+[Easy Spawnpoint Editor] lua/entities/editable_spawnpoint/cl_init.lua:24: attempt to call method 'GetTool' (a nil value)
+  1. unknown - lua/entities/editable_spawnpoint/cl_init.lua:24 (x60)
+
+VJ Base 3.2.0 : Navigate to the DrVrej tab in the spawn menu for settings.
+
+[Easy Spawnpoint Editor] lua/entities/editable_spawnpoint/cl_init.lua:24: attempt to call method 'GetTool' (a nil value)
+  1. unknown - lua/entities/editable_spawnpoint/cl_init.lua:24 (x84)
+
+[wOS-DynaBase] Registered new animation source: GAW Combat Lib (primary)
+
+[Easy Spawnpoint Editor] lua/entities/editable_spawnpoint/cl_init.lua:24: attempt to call method 'GetTool' (a nil value)
+  1. unknown - lua/entities/editable_spawnpoint/cl_init.lua:24 (x1008)
+
+[wOS-DynaBase] Registered new animation source: GAW Combat Lib (primary)
+
+[Easy Spawnpoint Editor] lua/entities/editable_spawnpoint/cl_init.lua:24: attempt to call method 'GetTool' (a nil value)
+  1. unknown - lua/entities/editable_spawnpoint/cl_init.lua:24 (x12)
+
+whynotboi\fnaf\fnaf1\animatronics\goldenfreddy\skins\emerald\emeraldfreddy.mdl/whynotboi\fnaf\fnaf1\animatronics\goldenfreddy\goldenfreddy.mdl : missmatched parent bones on "bip_microphone"
+backrooms/stilllife/stilllife.mdl/Zombie/Fast.mdl : missmatched parent bones on "ValveBiped.Bip01_Pelvis"
+backrooms/stilllife/stilllife.mdl/Zombie/Fast.mdl : missmatched parent bones on "ValveBiped.Bip01_Spine"
+
+[Easy Spawnpoint Editor] lua/entities/editable_spawnpoint/cl_init.lua:24: attempt to call method 'GetTool' (a nil value)
+  1. unknown - lua/entities/editable_spawnpoint/cl_init.lua:24 (x2100)
+
+[ActMod-flex] Loaded face flex data from actmod/flexs/amod_passinhodojamal_crl.json (frames: 332 |332)
+
+[Easy Spawnpoint Editor] lua/entities/editable_spawnpoint/cl_init.lua:24: attempt to call method 'GetTool' (a nil value)
+  1. unknown - lua/entities/editable_spawnpoint/cl_init.lua:24 (x1152)
+
+[ActMod-flex] Loaded face flex data from actmod/flexs/amod_passinhodojamal_crl.json (frames: 332 |332)
+
+[Easy Spawnpoint Editor] lua/entities/editable_spawnpoint/cl_init.lua:24: attempt to call method 'GetTool' (a nil value)
+  1. unknown - lua/entities/editable_spawnpoint/cl_init.lua:24 (x180)
+
+VJ Base [AI Nodegraph module]: Running second read attempt...
+VJ Base [AI Nodegraph module]: Second read attempt was successful!
+
+[Easy Spawnpoint Editor] lua/entities/editable_spawnpoint/cl_init.lua:24: attempt to call method 'GetTool' (a nil value)
+  1. unknown - lua/entities/editable_spawnpoint/cl_init.lua:24 (x643476)
+

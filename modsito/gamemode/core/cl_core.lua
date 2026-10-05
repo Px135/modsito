@@ -1,0 +1,1 @@
+print("[modsito] cl_core cargado")
